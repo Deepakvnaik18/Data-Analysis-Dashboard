@@ -43,6 +43,9 @@ This project is a comprehensive and interactive **HR Attrition Dashboard** built
 - Department
 
 ---
+## Dashboard Image
+
+![HR ATTRITION DASHBOARD](https://github.com/user-attachments/assets/1982a753-fa38-42ab-ba1f-5e76b7b3b516)
 
 
 
