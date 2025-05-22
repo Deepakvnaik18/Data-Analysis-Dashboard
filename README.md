@@ -4,6 +4,9 @@ This project is a comprehensive and interactive **HR Attrition Dashboard** built
 
 ---
 
+## Dataset Used
+- **<href:https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/EMP.DATASET.csv>**
+
 ## 🛠️ Tools & Technologies
 
 - **Python (Pandas):** Data cleaning, transformation, and preprocessing
