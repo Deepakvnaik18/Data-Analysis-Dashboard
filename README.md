@@ -5,7 +5,7 @@ This project is a comprehensive and interactive **HR Attrition Dashboard** built
 ---
 
 ## Dataset Used
-- **<href:https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/EMP.DATASET.csv>**
+- **<a href="https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/EMP.DATASET.csv">**
 
 ## 🛠️ Tools & Technologies
 
@@ -43,11 +43,7 @@ This project is a comprehensive and interactive **HR Attrition Dashboard** built
 
 ---
 
-## 📁 Report Pages
-
-1. **KPI** – Key metrics and high-level indicators  
-2. **Reports** – Detailed breakdowns and analytics  
-3. **Dashboard** – Interactive visualizations and insights (main page)
+Dashboard Interaction <a href 
 
 ---
 
