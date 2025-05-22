@@ -4,7 +4,7 @@ This project is a comprehensive and interactive **HR Attrition Dashboard** built
 
 ---
 
-- Dataset Used <a href="https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/EMP.DATASET.csv">Dataset</a>**
+- Dataset Used <a href="https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/EMP.DATASET.csv">Dataset</a>
 
 - Dashboard Interaction <a href="https://github.com/Deepakvnaik18/Data-Analysis-Dashboard/blob/main/HR%20ATTRITION%20DASHBOARD.png">View Dashboard</a>
 
